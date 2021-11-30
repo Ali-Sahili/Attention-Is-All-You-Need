@@ -1,5 +1,5 @@
 # Attention-Is-All-You-Need
-Implmenetation of self-attention, multi-head Attention and Transformer networks and testing on a toy dataset.
+Implementation of self-attention, multi-head Attention and Transformer modules and testing them on a toy dataset.
 
 ## Introduction
 In 2017, Vaswani et al. introduced in their [paper](https://arxiv.org/abs/1706.03762) a new idea called: "self-attention" which was a great advance in the use of attention mechanism, being the main improvement for a model called: "Transformer". The most famous current models that are emerging in NLP tasks consist of dozens of transformers or some of their variants, for example, GPT-2 or BERT. And more recently, dozens of transformers are incorporated in visual applications, so-called: vision transformers.
