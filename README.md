@@ -6,7 +6,7 @@ In 2017, Vaswani et al. introduced in their [paper](https://arxiv.org/abs/1706.0
 
 <p float="center">
   <img src="Figures/Attention.png" width="370" hspace="20"/>
-  <img src="Figures/transfomer_architecture.gif" width="370" /> 
+  <img src="Figures/transfomer_architecture.gif" width="440" /> 
 </p>
 
 
